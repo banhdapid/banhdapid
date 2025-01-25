@@ -1,8 +1,8 @@
 ## Hi, I'm David!
 👨‍💻 Software Engineer</br>
-👨‍🎓 Studied computer science at the Dian Nuswantoro University</br>
-🤘 Love running and photography
-
+👨‍🎓 I'm currently studying computer science at Dian Nuswantoro University</br>
+🌱 Interested about backend and similar technologies
+🤘 Love running and hiking
 <!--
 **banhdapid/banhdapid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
