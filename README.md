@@ -1,6 +1,6 @@
 ## Hi, I'm David!
 👨‍💻 Software Engineer</br>
-👨‍🎓 I'm currently studying computer science at Dian Nuswantoro University</br>
+👨‍🎓 Currently studying computer science at Dian Nuswantoro University</br>
 🌱 Interested about backend and similar technologies</br>
 🤘 Love running and hiking
 <!--
